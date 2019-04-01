@@ -9,7 +9,7 @@
 <script>
 import Banner from './banner'
 import Business from './business'
-import Introduce from './Introduce'
+import Introduce from './introduce'
 export default {
   data () {
     return {
